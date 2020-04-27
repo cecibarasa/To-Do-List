@@ -12,5 +12,5 @@ A trial application on a to-do-list
 * `BOOTSRAP`
 * `MARDOWN`
 ## [Support and contact details](https://www.linkedin.com/in/cecilia-barasa-4a8311195/)
-### [License]
+### [License](https://github.com/cecibarasa/To-Do-List/blob/master/license.md)
 Copyright (c) 2020 **Cecilia Barasa**
